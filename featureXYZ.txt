@@ -1,1 +1,3 @@
 This is some content for branch file.
+
+This is new content as well
